@@ -56,7 +56,7 @@ const atharva = {
 | :--- | :--- |
 | **[ShareHub](https://github.com/Atharva-467/ShareHub)** | Multi-institutional resource-sharing platform for colleges, makerspaces & labs — fair 6 hrs/week quota for rare gear, proof-of-condition sign-offs, role-based dashboards |
 | **[Portfolio](https://github.com/Atharva-467/Portfolio)** | My futuristic portfolio with a 3D background, live LeetCode & Codeforces counts and app-dev work front and centre |
-| **Tech Explainer Shorts** | Fully AI, faceless YouTube Shorts that break down tech in under a minute |
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-d6ae5700-a447-11eb-908a-139904c70624.gif" width="100%" alt="Animated divider" />
 
